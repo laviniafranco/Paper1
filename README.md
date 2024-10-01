@@ -14,7 +14,9 @@
 </head>
 <body>
     <div style="height: 100vh;">
-        <iframe src="https://github.com/laviniafranco/Paper1/blob/main/JMP_Lavinia_Franco.pdf" width="100%" height="100%"></iframe>
+        <iframe src="https://laviniafranco.github.io/Paper1/JMP_Lavinia_Franco.pdf" width="100%" height="100%"></iframe>
     </div>
 </body>
 </html>
+
+
